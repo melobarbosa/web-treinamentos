@@ -1,0 +1,8 @@
+import prompt from 'prompt-sync';
+
+const input = prompt()
+
+let fruta: number = parseInt(input('Escolha uma fruta:1 - morango | 2 - maca:'))
+let quantidade: number = parseInt(input('Informe a quantidade de kg:'))
+
+if(maça) {console.log(`se o cliente comprar de 8kg `)}
